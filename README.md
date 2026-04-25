@@ -60,7 +60,7 @@ Detailed analysis and explanation:
 
 ---
 
-## 📁 Project Structure
-- `dashboard/` — dashboard visualisations (PDF)  
-- `report/` — full analytical report  
+##  Project Structure
+- `dashboard/` — dashboard visualisations (PDF)
 - `data/` — dataset  
+- `report/` — full analytical report    
